@@ -1,0 +1,33 @@
+{
+	"posts": [
+	{
+		"id": 1,
+		"title": "Cách đi du lịch chỉ với 250k",
+		"body": "Bảng chi tiêu tiết kiệm cho chuyến du lịch 250k."
+	},
+	{
+		"id": 2,
+		"title": "Cách nấu Schnitzel",
+		"body": "Hướng dẫn nấu món gà nướng Schnitzel"
+	},
+	{
+		"id": 3,
+		"title": "Hướng dẫn sử dụng Android Studio",
+		"body": "Kinh nghiệm sử dụng Android Studio tránh sau khi bị treo máy hơn 20 lần"
+	}
+	],
+	
+	"users": [
+		{
+			"username": "duy",
+			"password": "deustchpark",
+			"fullname": "Pham Bach An Duy"
+		},
+		{
+			"username": "daniel",
+			"password": "tolucalake",
+			"fullname": "Daniel Hoffmann"
+		}
+	]
+
+}
